@@ -1,1 +1,36 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: #0d0d0d;
+  color: white;
+  text-align: center;
+}
+header {
+  padding: 40px;
+  background: #111;
+}
 
+header h1 {
+  font-size: 50px;
+  color: #7c3aed;
+}
+
+.hero {
+  padding: 60px 20px;
+}
+.projects {
+  padding: 40px;
+}
+ul{
+  list-style: none;
+  padding: 0;
+}
+li {
+  padding: 10px;
+  color: #111;
+}
+footer {
+  padding: 20px;
+  background: #111;
+  margin-top: 40px;
+}
